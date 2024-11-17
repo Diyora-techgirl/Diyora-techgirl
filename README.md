@@ -20,7 +20,7 @@
 📫 How to reach me:
 - **GitHub**: [Diyora-techgirl](https://github.com/Diyora-techgirl)
 - **Email**: akbaraliyevadiyora089@gmail.com
-- **Telegram**: [t.me/diyora2305](https://t.me/diyora2305)
+- **Telegram**: [t.me/diyora2305](https://t.me/diyora2405)
 
  😄 Pronouns:
 - She/Her
