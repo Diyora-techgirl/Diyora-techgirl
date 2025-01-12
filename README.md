@@ -7,15 +7,12 @@
 - Exploring **backend development** with **Node.js** and **Express**
 
  🌱 I’m currently learning:
-- **Python** with a focus on **Object-Oriented Programming (OOP)** and backend development
-- Exploring **machine learning** and **data science** concepts
-- **SCSS and Tailwind CSS** for creating responsive, modern web designs
-- Working with **REST APIs** and **GraphQL**
+- **Javascript, React.js and Tailwind CSS** for creating responsive, modern web designs
+- Working with **REST APIs**
 
  💞️ I’m looking to collaborate on:
 - **React** and **JavaScript** projects focused on building dynamic user interfaces
-- **Backend development projects** using **Python** and **Django**
-- Projects involving **machine learning** and **AI applications**
+- **Backend development projects** using **Node,js** and **Mongoose**
 
 📫 How to reach me:
 - **GitHub**: [Diyora-techgirl](https://github.com/Diyora-techgirl)
@@ -25,4 +22,4 @@
 - She/Her
 
  ⚡ Fun fact:
-- I love **photography** and **video editing**, and often combine my tech skills with creative projects like making tech tutorials and coding vlogs!
+- I love **taking photos** and **video editing**, and often combine my tech skills with creative projects like making coding vlogs!
